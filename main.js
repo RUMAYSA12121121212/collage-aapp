@@ -1,0 +1,1 @@
+box-shadow: 0 5px 8px 0 rgba(2, 2, 2, 0.2);
